@@ -61,7 +61,7 @@ export default function Testimonial(props) {
               <div className="testi-item">
                 <div className="testi-comment">
                   <p>Clean Collective: Landing Page</p>
-                  <br />
+                  
                 </div>
                 <div>
                   <img className="img" src={"img/Testimonial/CC1.png"} />
@@ -76,7 +76,7 @@ export default function Testimonial(props) {
               <div className="testi-item">
                 <div className="testi-comment">
                   <p>Clean Collective: Forum Page</p>
-                  <br />
+                  
                 </div>
                 <div>
                   <img className="img" src={"img/Testimonial/CC2.png"} />
@@ -90,7 +90,7 @@ export default function Testimonial(props) {
               <div className="testi-item">
                 <div className="testi-comment">
                   <p>Clean Collective: User Settings Page</p>
-                  <br />
+                  
                 </div>
                 <div>
                   <img className="img" src={"img/Testimonial/CC3.png"} />
@@ -104,7 +104,7 @@ export default function Testimonial(props) {
               <div className="testi-item">
                 <div className="testi-comment">
                   <p>Keeper App</p>
-                  <br />
+                  
                 </div>
                 <div>
                   <img className="img" src={"img/Testimonial/keeperApp.png"} />
@@ -118,13 +118,13 @@ export default function Testimonial(props) {
               <div className="testi-item">
                 <div className="testi-comment">
                   <p>The Simon Game</p>
-                  <br />
+                 
                 </div>
                 <div>
-                  <img className="img" src={"img/Testimonial/CC3.png"} />
-                  <a href="https://github.com/AndyDiep93/Clean-Collective/tree/main">
+                  <img className="img" src={"img/Testimonial/simon.png"} />
+                  <a href="https://andydiep93.github.io/Simon-Game/">
                   <br />
-                    Vist the Code Here!
+                    Play the Game Here!
                   </a>
                 </div>
               </div>
