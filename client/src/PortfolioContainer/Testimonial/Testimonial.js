@@ -59,30 +59,73 @@ export default function Testimonial(props) {
               margin={8}
             >
               <div className="testi-item">
+                <div className="testi-comment">
+                  <p>Clean Collective: Landing Page</p>
+                  <br />
+                </div>
                 <div>
-                  <img className="img" src={"img/Testimonial/website.png"} />
-                  <a href="https://www.w3schools.com/" >Vist the Application Here!</a>
+                  <img className="img" src={"img/Testimonial/CC1.png"} />
+
+                  <a href="https://github.com/AndyDiep93/Clean-Collective/tree/main">
+                  <br />
+                    Vist the Code Here!
+                  </a>
                 </div>
               </div>
 
               <div className="testi-item">
+                <div className="testi-comment">
+                  <p>Clean Collective: Forum Page</p>
+                  <br />
+                </div>
+                <div>
+                  <img className="img" src={"img/Testimonial/CC2.png"} />
+                  <a href="https://github.com/AndyDiep93/Clean-Collective/tree/main">
+                  <br />
+                    Vist the Code Here!
+                  </a>
+                </div>
+              </div>
+
+              <div className="testi-item">
+                <div className="testi-comment">
+                  <p>Clean Collective: User Settings Page</p>
+                  <br />
+                </div>
+                <div>
+                  <img className="img" src={"img/Testimonial/CC3.png"} />
+                  <a href="https://github.com/AndyDiep93/Clean-Collective/tree/main">
+                  <br />
+                    Vist the Code Here!
+                  </a>
+                </div>
+              </div>
+
+              <div className="testi-item">
+                <div className="testi-comment">
+                  <p>Keeper App</p>
+                  <br />
+                </div>
                 <div>
                   <img className="img" src={"img/Testimonial/keeperApp.png"} />
-                  <a href="https://www.w3schools.com/" >Vist the Application Here!</a>
+                  <a href="https://github.com/AndyDiep93/Keeper-App">
+                  <br />
+                    Vist the Code Here!
+                  </a>
                 </div>
               </div>
 
               <div className="testi-item">
-                <div>
-                  <img className="img" src={"img/Testimonial/website.png"} />
-                  <a href="https://www.w3schools.com/" >Vist the Application Here!</a>
+                <div className="testi-comment">
+                  <p>The Simon Game</p>
+                  <br />
                 </div>
-              </div>
-
-              <div className="testi-item">
                 <div>
-                  <img className="img" src={"img/Testimonial/website.png"} />
-                  <a href="https://www.w3schools.com/" >Vist the Application Here!</a>
+                  <img className="img" src={"img/Testimonial/CC3.png"} />
+                  <a href="https://github.com/AndyDiep93/Clean-Collective/tree/main">
+                  <br />
+                    Vist the Code Here!
+                  </a>
                 </div>
               </div>
             </OwlCarousel>
