@@ -67,7 +67,7 @@ export default function Testimonial(props) {
 
               <div className="testi-item">
                 <div>
-                  <img className="img" src={"img/Testimonial/website.png"} />
+                  <img className="img" src={"img/Testimonial/keeperApp.png"} />
                   <a href="https://www.w3schools.com/" >Vist the Application Here!</a>
                 </div>
               </div>
